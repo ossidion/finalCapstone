@@ -1,4 +1,4 @@
-###**Final Capstone Project (T17) - Lists, Functions, and String Handling: Task List**
+###**Final Capstone Project (T17) - Lists, Functions, and String Handling: Task List**###
 
 ##**Table of Contents**
 - Project Description
