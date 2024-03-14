@@ -5,6 +5,8 @@
 - Installation Instructions
 - Usage (How to Use this Project)
 
+  **Project Description**
+
 This project has been created in order to manage tasks associated with a range of users. The program allows for:
  - Registering a user
  - Adding a task
