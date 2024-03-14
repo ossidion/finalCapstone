@@ -1,11 +1,11 @@
-**Final Capstone Project (T17) - Lists, Functions, and String Handling: Task List**
+###**Final Capstone Project (T17) - Lists, Functions, and String Handling: Task List**
 
-**Table of Contents**
+##**Table of Contents**
 - Project Description
 - Installation Instructions
 - Usage (How to Use this Project)
 
-  **Project Description**
+##**Project Description**
 
 This project has been created in order to manage tasks associated with a range of users. The program allows for:
  - Registering a user
@@ -37,7 +37,7 @@ more about Python and how to create programs like this.
 
 The goal of this project is to provide organisation to anyone who uses it and to help others learn Python.
 
-**Installation Instructions**
+##**Installation Instructions**
 
 Download the file 'task_manager.py' and open in your IDE. Run the program and enter the username: 'admin' with
 the password: 'password' to begin. 
@@ -51,7 +51,8 @@ and listed below within this usage guide.
    Press 'r' to register a user then add the information you would like. An example is below:
    ![image](https://github.com/ossidion/finalCapstone/assets/151433415/70f906c0-e2dd-4275-94e8-ee3901bdcce8)
 
-   In order to prevent duplicate usernames, the program includes a while loop which iterates through the existing
+   In order to prevent duplicate usernames, the program includes a while loop which iterates through the    
+   existing
    usernames. An example is below:
    ![image](https://github.com/ossidion/finalCapstone/assets/151433415/0227d94d-0297-4f86-8496-5863d1731e48)
  
@@ -88,7 +89,7 @@ and listed below within this usage guide.
    ![image](https://github.com/ossidion/finalCapstone/assets/151433415/72bc1d08-7d2a-43eb-8c82-b14b578cf8b2)
 
 
-**Credits**
+##**Credits**
 
 Alexander Graham
 
